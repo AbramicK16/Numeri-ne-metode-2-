@@ -1,2 +1,2 @@
-# Numeri-ne-metode-2-
+# Numerične-metode-2-
 Gradivo
